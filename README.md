@@ -11,7 +11,14 @@ A Flutter application that allows users to explore novels, view details, and sav
 
 ## Screenshots
 
-\[Add screenshots of your application here]
+### Home Screen
+![Home Screen](assets/screenshorts/book_list_page.jpg)
+
+### Book Detail Screen
+![Book Detail](assets/screenshorts/book_detail_page.jpg)
+
+### Favorite Screen
+![Book Detail](assets/screenshorts/fevorite_screen.jpg)
 
 ## Getting Started
 
