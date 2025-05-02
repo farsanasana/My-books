@@ -33,7 +33,7 @@ A Flutter application that allows users to explore novels, view details, and sav
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/mybooks.git
+git [clone https://github.com/your-username/mybooks.git](https://github.com/farsanasana/My-books/commits?author=farsanasana)
 ```
 
 2. Navigate to the project directory:
@@ -91,37 +91,6 @@ Favorites are stored locally using SharedPreferences:
 * Efficiently stores simple data structures
 * Native to Flutter and doesn't require additional dependencies
 
-### Error Handling
-
-The application implements comprehensive error handling:
-
-* Centralized error handling service
-* User-friendly error messages with retry options
-* Graceful degradation when services are unavailable
-
-## Dependencies
-
-* **provider**: For state management
-* **http**: For API requests
-* **shared\_preferences**: For local storage of favorites
-* **cached\_network\_image**: For efficient image loading
-* **flutter\_spinkit**: For loading indicators
-* **flutter\_lints**: For code quality enforcement
-
-## Future Improvements
-
-Potential enhancements for future versions:
-
-1. Implement search functionality
-2. Add filtering options (by genre, author, etc.)
-3. Support for dark mode
-4. Implement caching for offline access
-5. Add user authentication for cloud syncing of favorites
-6. Implement more comprehensive unit and widget tests
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
